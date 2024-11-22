@@ -1,0 +1,57 @@
+name: constance.flatley
+description: strategy
+version: 0.1.2.179
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: constanceflatley
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:14:45'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:14:45'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:14:45.234019Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '351541048'
+  createdAt: '2024-11-22T20:14:45.234019Z'
+  type: plibMaven
+projectDependencies:
+  '279':
+    projectUID: 279
+    projectName: nancie.green
+    repositoryPath: gitUri=http://gitserver:3000/dev_xxeWbM1I_team_360/dev_xxeWbM1I_project_279.git&subPath=
+    version: nancie.green/0.67.508
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:14:44'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
